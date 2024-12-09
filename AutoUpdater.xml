@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8" ?>
 <item>
     <version>1.1.0.0</version>
-    <url>https://github.com/Bolezmaj/AppUpdate/raw/refs/heads/main/MyApp.zip</url>
+    <url>https://github.com/Bolezmaj/AppUpdate/releases/download/update/MyApp.4.zip</url>
     <mandatory>false</mandatory>
 </item>
